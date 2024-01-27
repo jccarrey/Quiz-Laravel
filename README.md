@@ -4,7 +4,7 @@
 
   In this Quiz, u can be an admin or a client.
 
-  #Client: 
+  ## Client: 
   
   In the case u are a client, u can play the quiz, answering the questions and see ur answer history
 
